@@ -1,4 +1,6 @@
 # Bikesharing
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
+
 
 ## Overview of Bikesharing
   The purpose of this analysis was to see if a bikesharing program would be productive is Des Moines, Iowa by using tableau to see how it works in New York.
