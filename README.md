@@ -22,6 +22,6 @@ Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
   <img src="graph 7.png" width="60%" height="60%" title="Bikesharing">
 
 ## Summary of Bikesharing
-  Based on the information provided I would say even though Des Moines is far less populated, I believe a bikesharing program would be appropriate. Two additional visualizations that ould be added is a graph based on the age of the customer to see what would be your target market, and we could also do a visualization based on the name of each stations to see which specific stations has the higher volume.
+  Based on the information provided I would say even though Des Moines is far less populated, I believe a bikesharing program would be appropriate. Two additional visualizations that could be added is a graph based on the age of the customer to see what would be your target market, and we could also do a visualization based on the name of each stations to see which specific stations has the higher volume.
   
   [link to dashboard](https://public.tableau.com/app/profile/jay4166/viz/Bikesharing_16333012940240/NYCStory?publish=yes)
